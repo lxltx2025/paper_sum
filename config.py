@@ -31,7 +31,7 @@ OUTPUT_FOLDER = Path("./multi_omics_output")
 OUTPUT_FOLDER.mkdir(exist_ok=True)
 
 # ============ Ollama配置 ============
-OLLAMA_BASE_URL = "http://172.16.25.135:11434"
+OLLAMA_BASE_URL = "http://localhost:11434"
 OLLAMA_MODEL = "qwen2.5:14b"
 
 # API调用配置
