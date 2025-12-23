@@ -1,0 +1,22 @@
+# PDF处理
+PyMuPDF>=1.23.0
+pdfplumber>=0.10.0
+pymupdf4llm>=0.0.5
+
+# HTTP请求
+requests>=2.31.0
+httpx>=0.25.0
+
+# 数据处理
+pandas>=2.0.0
+numpy>=1.24.0
+
+# 进度显示
+tqdm>=4.66.0
+rich>=13.7.0
+
+# JSON处理
+orjson>=3.9.0
+
+# 其他
+python-dateutil>=2.8.0
